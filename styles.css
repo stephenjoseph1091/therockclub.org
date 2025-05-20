@@ -1,8 +1,8 @@
 body {
   margin: 0;
-  background-color: #008080;
+  background-color: #0000FF;
   font-family: "Times New Roman", Times, serif;
-  color: #FFFF00;
+  color: #FF0000;
   text-align: center;
 }
 
@@ -17,10 +17,17 @@ p {
   margin: 20px;
 }
 
-a img {
+.retro-button {
+  display: inline-block;
+  background-color: #FF0000;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 16px;
   border: 3px solid #FF0000;
+  font-family: "Times New Roman", Times, serif;
 }
 
-a img:hover {
+.retro-button:hover {
   border-color: #00FF00;
 }
