@@ -32,12 +32,8 @@ p {
   border-color: #00FF00;
 }
 
-.visitor-counter {
-  border: 2px solid #FFFF00;
-}
-
 .logo {
-  width: 150px;
+  width: 50px;
   height: auto;
   border: 2px solid #FFFF00;
 }
