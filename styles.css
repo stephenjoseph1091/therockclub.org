@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: #008080;
+  font-family: "Times New Roman", Times, serif;
+  color: #FFFF00;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  color: #FF00FF;
+  text-shadow: 2px 2px #000000;
+  margin-top: 20px;
+}
+
+p {
+  margin: 20px;
+}
+
+a img {
+  border: 3px solid #FF0000;
+}
+
+a img:hover {
+  border-color: #00FF00;
+}
