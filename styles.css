@@ -10,7 +10,7 @@ h1 {
   font-size: 48px;
   color: #FF00FF;
   text-shadow: 2px 2px #000000;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 p {
@@ -30,4 +30,14 @@ p {
 
 .retro-button:hover {
   border-color: #00FF00;
+}
+
+.visitor-counter {
+  border: 2px solid #FFFF00;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+  border: 2px solid #FFFF00;
 }
